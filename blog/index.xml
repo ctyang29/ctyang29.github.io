@@ -4,17 +4,16 @@
     <title>blog on GO! Chiao Chiao(來喬喬*瞧瞧)</title>
     <link>https://ctyang29.github.io/blog/</link>
     <description>Recent content in blog on GO! Chiao Chiao(來喬喬*瞧瞧)</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://ctyang29.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Oct 2022 10:07:47 -0800</lastBuildDate>
+    <atom:link href="https://ctyang29.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>UW-Seattle MS ECE 分享</title>
       <link>https://ctyang29.github.io/blog/post-1/</link>
       <pubDate>Wed, 05 Oct 2022 10:07:47 -0800</pubDate>
-      
       <guid>https://ctyang29.github.io/blog/post-1/</guid>
-      <description>[簡介及背景] University of Washington Department of Electrical &amp;amp; Computer Engineering (UW ECE) 系所官網： https://www.</description>
+      <description>&lt;h1 id=&#34;簡介及背景&#34;&gt;[簡介及背景]&lt;/h1&gt;&#xA;&lt;h5 id=&#34;university-of-washington-department-of-electrical--computer-engineering-uw-ece&#34;&gt;University of Washington Department of Electrical &amp;amp; Computer Engineering (UW ECE)&lt;/h5&gt;&#xA;&lt;h5 id=&#34;系所官網&#34;&gt;系所官網：&lt;/h5&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.ece.uw.edu/&#34;&gt;https://www.ece.uw.edu/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
